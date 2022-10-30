@@ -1,0 +1,14 @@
+exports.SOMETHING_WENG_WRONG = 'Something went wrong!';
+exports.BAD_REQUEST = 'Bad request.';
+exports.NOT_AUTHORIZED = 'You are not authorized to perform this action!';
+exports.NO_ACCESS = 'Access forbidden.';
+exports.NOT_FOUND = 'Not found.';
+exports.NO_TOKEN = 'You should specify token for this request!';
+exports.REGISTRATION_FAILED = 'Registration failed!';
+exports.LOGIN_FAILED = 'Wrong email or password!';
+exports.CANNOT_GET_MAIN_INFORMATION = 'Cannot get main information.';
+exports.CANNOT_GET_YEARLY_STATISTICS = 'Cannot get yearly statistics.';
+exports.CANNOT_GET_TRANSACTIONS = 'Cannot get transactions.';
+exports.CANNOT_CREATE_TRANSACTION = 'Cannot create transaction.';
+exports.CANNOT_UPDATE_TRANSACTION = 'Cannot update transaction.';
+exports.CANNOT_DELETE_TRANSACTION = 'Cannot delete transaction.';
